@@ -1,5 +1,4 @@
 # Healthcare-Data-Analysis-and-Insightss
-# Healthcare Data Analysis
 
 ## Project Overview
 
